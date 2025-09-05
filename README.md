@@ -9,13 +9,21 @@ Front-End Developer with 5 years of experience in designing and implementing man
 
   ### Skills
 
+### Skills
+
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="40" height="40"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://simpleicons.org/icons/typescript.svg" width="40" height="40"></a>
-  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://simpleicons.org/icons/react.svg" width="40" height="40"></a>
-  <a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://simpleicons.org/icons/vue-dot-js.svg" width="40" height="40"></a>
   <a href="https://html.spec.whatwg.org/" target="_blank"><img alt="HTML5" src="https://simpleicons.org/icons/html5.svg" width="40" height="40"></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" src="https://simpleicons.org/icons/css3.svg" width="40" height="40"></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://simpleicons.org/icons/bootstrap.svg" width="40" height="40"></a>
+  <a href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://simpleicons.org/icons/sass.svg" width="40" height="40"></a>
+  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://simpleicons.org/icons/react.svg" width="40" height="40"></a>
+  <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://simpleicons.org/icons/next-dot-js.svg" width="40" height="40"></a>
+  <a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://simpleicons.org/icons/vue-dot-js.svg" width="40" height="40"></a>
+  <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://simpleicons.org/icons/graphql.svg" width="40" height="40"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://simpleicons.org/icons/mongodb.svg" width="40" height="40"></a>
+  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://simpleicons.org/icons/figma.svg" width="40" height="40"></a>
 </p>
 
 ### Socials
