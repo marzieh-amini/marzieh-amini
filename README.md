@@ -11,6 +11,8 @@ Front-End Developer with 5 years of experience in designing and implementing man
 
 ### Skills
 
+### Skills
+
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="40" height="40"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://simpleicons.org/icons/typescript.svg" width="40" height="40"></a>
@@ -29,6 +31,7 @@ Front-End Developer with 5 years of experience in designing and implementing man
 ### Socials
 
 <p align="center">
+  <a href="https://github.com/marzieh-amin" target="_blank"><img alt="GitHub" src="https://simpleicons.org/icons/github.svg" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/marziyh-amini-1b588a198/" target="_blank"><img alt="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg" width="40" height="40"></a>
 </p>
 
