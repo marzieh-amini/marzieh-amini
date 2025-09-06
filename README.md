@@ -47,6 +47,13 @@ Front-End Developer with 5 years of experience in designing and implementing man
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marzieh-amini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marzieh-amini)
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzieh-amini&layout=compact&theme=dark&hide_border=true)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marzieh-amini&show_icons=true&theme=dark&hide_border=true)
+
+
 
 <!--
 **marzieh-amini/marzieh-amini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
