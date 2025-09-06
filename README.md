@@ -7,26 +7,24 @@ Front-End Developer with 5 years of experience in designing and implementing man
 - 🌏 I'm based in Iran, mashhad
 - ✉️ You can contact me at ma.amini.it@gmail.com
 
-  ### Skills
+## Skills
 
-### Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Skills
-
-<p align="center">
-  <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="40" height="40"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://simpleicons.org/icons/typescript.svg" width="40" height="40"></a>
-  <a href="https://html.spec.whatwg.org/" target="_blank"><img alt="HTML5" src="https://simpleicons.org/icons/html5.svg" width="40" height="40"></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" src="https://simpleicons.org/icons/css3.svg" width="40" height="40"></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://simpleicons.org/icons/bootstrap.svg" width="40" height="40"></a>
-  <a href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://simpleicons.org/icons/sass.svg" width="40" height="40"></a>
-  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://simpleicons.org/icons/react.svg" width="40" height="40"></a>
-  <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://simpleicons.org/icons/next-dot-js.svg" width="40" height="40"></a>
-  <a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://simpleicons.org/icons/vue-dot-js.svg" width="40" height="40"></a>
-  <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://simpleicons.org/icons/graphql.svg" width="40" height="40"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://simpleicons.org/icons/mongodb.svg" width="40" height="40"></a>
-  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://simpleicons.org/icons/figma.svg" width="40" height="40"></a>
-</p>
 
 ### Socials
 
