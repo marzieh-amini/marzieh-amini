@@ -51,8 +51,6 @@ Front-End Developer with 5 years of experience in designing and implementing man
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzieh-amini&layout=compact&theme=dark&hide_border=true)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marzieh-amini&show_icons=true&theme=dark&hide_border=true)
-
 
 
 <!--
